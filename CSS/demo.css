@@ -1,0 +1,13 @@
+body{background-color: #1F1F1F}
+.swiper-container{
+	width: auto;
+	height: 70vh;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+}
+.swiper-item > img{
+    width: inherit;
+    height: inherit;
+    object-fit: cover;
+}
